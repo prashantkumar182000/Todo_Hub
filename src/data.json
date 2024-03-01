@@ -1,0 +1,229 @@
+{
+  "boards": [
+    {
+      "name": "Work",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "Todo",
+          "tasks": [
+            {
+              "title": "Office Assignment",
+              "description": "",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Email Boss",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Sign in at 3:00 PM",
+                  "isCompleted": false
+                },
+                {
+                  "title": "DNP",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Build UI for search",
+              "description": "",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Search page",
+                  "isCompleted": false
+                }
+              ]
+            }   
+          ]
+        },
+        {
+          "name": "Doing",
+          "tasks": [
+            {
+              "title": "Add account management endpoints",
+              "description": "",
+              "status": "Doing",
+              "subtasks": [
+                {
+                  "title": "Upgrade plan",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Cancel plan",
+                  "isCompleted": true
+                },
+                {
+                  "title": "Update payment method",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Done",
+          "tasks": [
+            {
+              "title": "Create wireframe prototype",
+              "description": "Create a greyscale clickable wireframe prototype to test our asssumptions so far.",
+              "status": "Done",
+              "subtasks": [
+                {
+                  "title": "Create clickable wireframe prototype in Balsamiq",
+                  "isCompleted": true
+                }
+              ]
+            },
+            {
+              "title": "Market discovery",
+              "description": "We need to define and refine our core product. Interviews will help us learn common pain points and help us define the strongest MVP.",
+              "status": "Done",
+              "subtasks": [
+                {
+                  "title": "Interview 10 prospective customers",
+                  "isCompleted": true
+                }
+              ]
+            },
+            {
+              "title": "Competitor analysis",
+              "description": "",
+              "status": "Done",
+              "subtasks": [
+                {
+                  "title": "Find direct and indirect competitors",
+                  "isCompleted": true
+                },
+                {
+                  "title": "SWOT analysis for each competitor",
+                  "isCompleted": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vacation Plan",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "Todo",
+          "tasks": [
+            {
+              "title": "Flight Tickets",
+              "description": "",
+              "status": "Todo",
+              "subtasks": [
+                {
+                  "title": "Delhi to Bengaluru",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Bengaluru to Delhi",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Notify my Parents",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Mailed to Hr regarding Leave",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Discover about the places to visit",
+              "description": "",
+              "status": "",
+              "subtasks": [
+                {
+                  "title": "Parks",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Temples",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Old Friends to meet",
+                  "isCompleted": false
+                }
+              ]
+            },
+            {
+              "title": "Things to take on trip",
+              "description": "",
+              "status": "",
+              "subtasks": [
+                {
+                  "title": "Identity Cards",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Gifts for old friends staying in Bengaluru",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Cash from ATM",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Shopping",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Doing",
+          "tasks": []
+        },
+        {
+          "name": "Done",
+          "tasks": []
+        }
+      ]
+    },
+    {
+      "name": "CAT Preparation",
+      "isActive" : false,
+      "columns": [
+        {
+          "name": "Now",
+          "tasks": [
+            {
+              "title": "Registration in a Online course",
+              "description": "",
+              "status": "",
+              "subtasks": [
+                {
+                  "title": "Mock Tests",
+                  "isCompleted": false
+                },
+                {
+                  "title": "Interview Preparation",
+                  "isCompleted": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Next",
+          "tasks": []
+        },
+        {
+          "name": "Later",
+          "tasks": []
+        }
+      ]
+    }
+  ]
+}
