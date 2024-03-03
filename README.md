@@ -1,5 +1,8 @@
 ## Todo.Hub - a vibrant todo app
 
+Watch the Overview of the Application in Loom: [Click Here](https://www.loom.com/share/e0eeb059a009438d82540677ba9f0abd?sid=bbaf46f1-1227-4b79-93c8-e58cebb22806)
+
+
 ## Table of contents
 
 - [Overview](#overview)
