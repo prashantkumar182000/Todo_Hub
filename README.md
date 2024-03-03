@@ -1,4 +1,4 @@
-## Todo.Hub - a vibrant todo app
+[Todo.Hub](https://todo-hub1.netlify.app/) - a vibrant todo app
 
 Watch the Overview of the Application in Loom: [Click Here](https://www.loom.com/share/e0eeb059a009438d82540677ba9f0abd?sid=bbaf46f1-1227-4b79-93c8-e58cebb22806)
 
@@ -19,7 +19,7 @@ Watch the Overview of the Application in Loom: [Click Here](https://www.loom.com
 
 Users should be able to:
 
-- View the optimal layout for the app depending on their device's screen size
+- View the optimal layout for the app depending on the device's screen size
 - See hover states for all interactive elements on the page
 - Create, read, update, and delete boards and tasks
 - Receive form validations when trying to create/edit boards and tasks
